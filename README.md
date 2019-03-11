@@ -1,4 +1,3 @@
-# react-native
 <h1 align="center">
   <a href="https://facebook.github.io/react-native/">
     React Native
