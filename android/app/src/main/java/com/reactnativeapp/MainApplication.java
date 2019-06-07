@@ -1,4 +1,4 @@
-package com.petmate;
+package com.reactnativeapp;
 
 import android.app.Application;
 
