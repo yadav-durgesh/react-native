@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://facebook.github.io/react-native/">
-    React Native
+    React Native BoilerPlate
   </a>
 </h1>
 
